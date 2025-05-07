@@ -19,11 +19,6 @@ The dataset used in this project is available on Google Drive:
 
 👉 [Download Dataset](https://drive.google.com/drive/folders/110i9cNwY7DG2_rnF0KQ7SaYpjXvGRmRD?usp=drive_link)
 
-It includes:
-
-* `ball_by_ball_data.csv`: Match-wise granular data
-* `player_info.csv`: Player statistics and metadata
-* `processed_data/`: Cleaned and feature-engineered files
 
 ## 📓 Notebook
 
