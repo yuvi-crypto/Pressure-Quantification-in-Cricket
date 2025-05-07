@@ -1,7 +1,5 @@
 ---
 
-### 📘 README.md
-
 # Pressure Quantification in Cricket
 
 *A Machine Learning and Survival Analysis Approach*
