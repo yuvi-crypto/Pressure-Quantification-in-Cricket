@@ -1,5 +1,3 @@
-Thanks for sharing the dataset link and uploading the notebook (`smaiprojectmodel.ipynb`). Based on the title and context you've shared earlier ("**Pressure Quantification in Cricket using Survival Analysis and Machine Learning**"), here’s a draft `README.md` file that you can include in your GitHub or project repository:
-
 ---
 
 ### 📘 README.md
