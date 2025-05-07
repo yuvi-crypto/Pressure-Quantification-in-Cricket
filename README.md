@@ -70,5 +70,3 @@ Key methods used:
    ```bash
    pip install pandas numpy lifelines scikit-learn matplotlib seaborn
    ```
-
-Would you like me to save this as a downloadable `README.md` file for you?
